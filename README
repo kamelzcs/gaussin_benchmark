@@ -1,0 +1,3 @@
+Benchmark             Mode  Cnt          Score           Error  Units
+Test.testCdf         thrpt    4  205218551.548 ± 268861797.775  ops/s
+Test.testInverseCdf  thrpt    4     318289.902 ±    216939.090  ops/s
